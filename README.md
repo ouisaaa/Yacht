@@ -1,6 +1,11 @@
 # Yacht
 java project  practice
+
+자바로 만드는 
 **혼자서도 즐길수 있는 Yacht Dice**
+
+## 프로젝트 기간
+20.10.28~20.11.25
 
 ## Skills
 **java**
